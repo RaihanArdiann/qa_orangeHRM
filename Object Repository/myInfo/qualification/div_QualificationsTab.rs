@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_QualificationsTab</name>
+   <tag></tag>
+   <elementGuidId>46add82c-2319-45e2-995b-5abd52955bd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-edit-employee-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dde4312c-7b34-489c-a975-97b70af43aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-edit-employee-content</value>
+      <webElementGuid>22dd4f46-2dbd-4755-90ee-aa1d415ce1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QualificationsWork Experience Add (1) Record FoundCompanyTCSJob TitleTESTERFrom09-02-2020To07-16-2023CommentHII HELLOEducation Add  (2) Records FoundLevelBachelor's DegreeYear2024GPA/Score4.0LevelBachelor's DegreeSkills Add (1) Record FoundSkillContent CreationYears of Experience3Languages Add  (2) Records FoundLanguageChineseFluencyWritingCompetencyBasicLanguageEnglishFluencySpeakingCompetencyMother TongueLicense Add No Records FoundAttachments Add No Records Found</value>
+      <webElementGuid>8f2fa5c2-6866-4d8a-a1d6-1d35010fc544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]</value>
+      <webElementGuid>4979cf9f-4969-47f4-b5b8-5ca1f42103ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>840d09f8-205a-44fd-881e-475376bd41e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memberships'])[1]/following::div[1]</value>
+      <webElementGuid>deeaccc1-7963-42b0-b948-a3001f726ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[2]</value>
+      <webElementGuid>65c8a01d-7245-463e-820a-a3138dc266ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>39f680bc-b1b0-4bd4-9b7d-20a864aec55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;QualificationsWork Experience Add (1) Record FoundCompanyTCSJob TitleTESTERFrom09-02-2020To07-16-2023CommentHII HELLOEducation Add  (2) Records FoundLevelBachelor&quot; , &quot;'&quot; , &quot;s DegreeYear2024GPA/Score4.0LevelBachelor&quot; , &quot;'&quot; , &quot;s DegreeSkills Add (1) Record FoundSkillContent CreationYears of Experience3Languages Add  (2) Records FoundLanguageChineseFluencyWritingCompetencyBasicLanguageEnglishFluencySpeakingCompetencyMother TongueLicense Add No Records FoundAttachments Add No Records Found&quot;) or . = concat(&quot;QualificationsWork Experience Add (1) Record FoundCompanyTCSJob TitleTESTERFrom09-02-2020To07-16-2023CommentHII HELLOEducation Add  (2) Records FoundLevelBachelor&quot; , &quot;'&quot; , &quot;s DegreeYear2024GPA/Score4.0LevelBachelor&quot; , &quot;'&quot; , &quot;s DegreeSkills Add (1) Record FoundSkillContent CreationYears of Experience3Languages Add  (2) Records FoundLanguageChineseFluencyWritingCompetencyBasicLanguageEnglishFluencySpeakingCompetencyMother TongueLicense Add No Records FoundAttachments Add No Records Found&quot;))]</value>
+      <webElementGuid>bc44fd14-bce9-4325-9316-86269c71a209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
